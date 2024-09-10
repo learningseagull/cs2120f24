@@ -181,7 +181,9 @@ whenever it's raining then the streets are wet, then (c) if
 whenever the sprinkler's running then the streets are wet, then
 _________. What is the conclusion? Write the expression in PL.
 -/
-def p8  : PLExpr := sorry
+def p8  : PLExpr := 
+
+
 
 /-!
 If whenever it's raining, the streets are wet, then whenever the
